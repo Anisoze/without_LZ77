@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "without_LZ77", "without_LZ77.pyproj", "{73A80904-AB94-43CF-AC80-CDE71A8C378B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A80904-AB94-43CF-AC80-CDE71A8C378B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A80904-AB94-43CF-AC80-CDE71A8C378B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197F1517-C0F9-43DC-ACBC-D1CD7E96258D}
+	EndGlobalSection
+EndGlobal
